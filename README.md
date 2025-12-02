@@ -5,4 +5,4 @@
 #https://www.kaggle.com/code/mohamedchahed/human-emotion-detection
 
 #데이터셋
-https://www.kaggle.com/code/mohamedchahed/human-emotion-detection
+https://www.kaggle.com/datasets/msambare/fer2013
